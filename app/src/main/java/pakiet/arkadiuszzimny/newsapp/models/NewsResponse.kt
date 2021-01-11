@@ -1,4 +1,6 @@
-package pakiet.arkadiuszzimny.newsapp
+package pakiet.arkadiuszzimny.newsapp.models
+
+import pakiet.arkadiuszzimny.newsapp.models.Article
 
 data class NewsResponse(
     val articles: List<Article>,

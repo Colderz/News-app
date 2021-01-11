@@ -1,4 +1,4 @@
-package pakiet.arkadiuszzimny.newsapp
+package pakiet.arkadiuszzimny.newsapp.models
 
 data class Source(
     val id: Any,

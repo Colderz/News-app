@@ -1,4 +1,4 @@
-package pakiet.arkadiuszzimny.newsapp
+package pakiet.arkadiuszzimny.newsapp.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

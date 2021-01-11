@@ -1,6 +1,6 @@
 package pakiet.arkadiuszzimny.newsapp.api
 
-import pakiet.arkadiuszzimny.newsapp.NewsResponse
+import pakiet.arkadiuszzimny.newsapp.models.NewsResponse
 import pakiet.arkadiuszzimny.newsapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET

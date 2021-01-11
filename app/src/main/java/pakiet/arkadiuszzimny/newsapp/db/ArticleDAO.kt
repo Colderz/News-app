@@ -2,7 +2,7 @@ package pakiet.arkadiuszzimny.newsapp.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import pakiet.arkadiuszzimny.newsapp.Article
+import pakiet.arkadiuszzimny.newsapp.models.Article
 
 @Dao
 interface ArticleDAO {
