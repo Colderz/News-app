@@ -18,6 +18,10 @@ import pakiet.arkadiuszzimny.newsapp.ui.NewsViewModel
 import pakiet.arkadiuszzimny.newsapp.util.Constants.Companion.QUERY_PAGE_SIZE
 import pakiet.arkadiuszzimny.newsapp.util.Resource
 
+/**
+ * Fragment odpowiadający za widok listy z najnowszymi newsami (rozszerzający Fragment())
+ * W argumencie podajemy "ścieżke" do widoku
+ */
 class BreakingNewsFragment : Fragment(R.layout.fragment_breaking_news) {
 
     lateinit var viewModel: NewsViewModel
